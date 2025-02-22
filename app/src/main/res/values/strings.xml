@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string-array name="valores_iniciais">
+        <item>SP</item>
+        <item>RJ</item>
+        <item>MG</item>
+    </string-array>
+</resources>
